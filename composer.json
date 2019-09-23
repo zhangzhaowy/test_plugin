@@ -1,0 +1,8 @@
+{
+    "name": "zhangzhaowy/test_plugin",
+    "description": "a test plugin",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
